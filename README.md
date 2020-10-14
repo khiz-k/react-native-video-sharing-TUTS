@@ -1,4 +1,4 @@
-# react-native-video-sharing-TUTS
+# TUTS
 
 A video sharing mobile app meant for educational videos. Made with react native and firebase.
 
